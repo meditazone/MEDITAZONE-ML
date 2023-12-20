@@ -25,8 +25,11 @@ The meditation recommendations will recommend meditations that can help users to
 
 1.  Clone this repository: https://github.com/meditazone/MEDITAZONE-ML/
 2.  Install the required framework:
-    py
-    pip install python pickle tensorflow install transformers sklearn
+
+    ```py
+    pip install python pickle tensorflow transformers scikit-learn
+    ```
+
 3.  Download the trained model and processed dataset from the following links:
 
     - Detection without BERT Transfer Learning:
