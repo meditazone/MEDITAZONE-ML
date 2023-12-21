@@ -24,7 +24,7 @@ Data kecil juga dapat diakses [di sini](https://drive.google.com/drive/folders/1
 
 Dari data tersebut kami menggunakannya untuk membuat model machine learning yang dibangun menggunakan transfer learning BERT.
 
-## Data Rekomwndasi
+## Data Rekomendasi
 
 Data kecil juga dapat diakses [di sini](https://drive.google.com/file/d/15xwYt5O_GqLGGigP6rYKdKvYkOQcY31-/view?usp=sharing). Data ini memiliki:
 
